@@ -1,6 +1,6 @@
 # FoodPoints Forward
 
-HackDuke 2018
+HackDuke - October 2018
 Team members: Lu, Christine, Stephanie, Nathan, Jeremy
 
 • Created an application in a team of five students using Java meant to address food insecurity and inequality on Duke’s campus
