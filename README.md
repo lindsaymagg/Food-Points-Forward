@@ -1,4 +1,4 @@
-# Food-Points-Forward
+# FoodPoints Forward
 
 HackDuke 2018
 Team members: Lu, Christine, Stephanie, Nathan, Jeremy
